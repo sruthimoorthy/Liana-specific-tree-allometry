@@ -6,7 +6,7 @@ library(glmmTMB)
 library(brms)  
 library(dplyr)
 
-setwd("/Users/sruthikp/Work/Analysis/BCI2019/Datasets")
+setwd("Datasets")
 
 all_tree_data_2019 <- read.csv("liana_census_all_trees_within_subplot_subqua_sorted.csv")
 
