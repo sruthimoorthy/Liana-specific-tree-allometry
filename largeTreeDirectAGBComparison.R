@@ -7,7 +7,7 @@ library(brms)
 library(dplyr)
 library(tidyr)
 
-setwd("/Users/sruthikp/Work/Analysis/BCI2019/Datasets")
+setwd("Datasets")
 
 all_subplot_trees <- read.csv("liana_census_all_trees_within_subplot_subqua_sorted.csv")
 
