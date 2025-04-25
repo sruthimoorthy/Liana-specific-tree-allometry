@@ -7,7 +7,7 @@ library(brms)
 library(dplyr)
 library(tidyr)
 
-setwd("/Users/sruthikp/Work/Analysis/BCI2019/Datasets")
+setwd("Datasets")
 
 df_2019 <- read.csv("bci_trees_tls_final_qsmv2_4_metrics.csv")
 
