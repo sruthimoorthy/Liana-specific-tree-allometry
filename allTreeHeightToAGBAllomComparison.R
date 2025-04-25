@@ -8,7 +8,7 @@ library(dplyr)
 library(tidyr)
 library(glue)
 
-setwd("/Users/sruthikp/Work/Analysis/BCI2019/Datasets")
+setwd("Datasets")
 
 all_50ha_liana_subplot <- read.csv("liana_agb_subplot_level.csv")
 
