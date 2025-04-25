@@ -8,7 +8,7 @@ library(dplyr)
 library(tidyr)
 library(ggpubr)
 
-setwd("/Users/sruthikp/Work/Analysis/BCI2019/Datasets")
+setwd("Datasets")
 
 df_2019 <- read.csv("liana_census_all_trees_within_subplot_subqua_sorted.csv")
 
