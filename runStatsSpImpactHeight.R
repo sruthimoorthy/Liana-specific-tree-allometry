@@ -8,7 +8,7 @@ library(dplyr)
 library(tidyr)
 library(ggpubr)
 
-setwd("/Users/sruthikp/Work/Analysis/BCI2019/Datasets")
+setwd("Datasets")
 
 df_2019 <- read.csv("bci_trees_tls_metrics.csv")
 
