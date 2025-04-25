@@ -9,7 +9,8 @@ library(tidyr)
 library(ggpubr)
 library(patchwork)
 library(cowplot)
-setwd("/Users/sruthikp/Work/Analysis/BCI2019/Datasets")
+
+setwd("Datasets")
 
 df_2019 <- read.csv("bci_trees_tls_final_qsmv2_4_metrics.csv")
 
